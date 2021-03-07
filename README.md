@@ -13,7 +13,7 @@
 - Packages: pandas, numpy
 
 ## Web Scraping
-Used pandas read_html to scrape Individual Player's Advanced Stats from year 2001 to 2021
+Used pandas read_html to scrape Individual Player's Advanced Stats per season from year 2001 to 2021
 from https://www.basketball-reference.com/. With each player, the stats collected are following:
 - Rank(Rk), Player, Position (Pos), Age, Team(Tm), Games(G), Minutes Played (MP), 
 Player Efficiency Rating (PER), True Shooting Percentage (TS%)
