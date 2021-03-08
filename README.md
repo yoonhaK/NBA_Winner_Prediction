@@ -23,3 +23,12 @@ Player Efficiency Rating (PER), True Shooting Percentage (TS%)
 - Offensive Win Shares(OWS), Defensive Win Shares(DWS), Win Shares(WS), Win Shares Per 48 Minutes (WS/48)
 - Offensive Box Plus/Minus (OBPM), Defensive Box Plus/Minus(DBPM), Box Plus/Minus(BPM), Value over Replacement Player(VORP)
 
+Also, since read_html function returns with list of dataframe, I converted into one big dataframe
+
+## Data Cleaning
+After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes:
+- Removed multiple headers that were created when I scraped the data
+- Removed empty columns 
+
+
+
