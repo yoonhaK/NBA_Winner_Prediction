@@ -18,7 +18,7 @@ from https://www.basketball-reference.com/. With each player, the stats collecte
 - Rank(Rk), Player, Position (Pos), Age, Team(Tm), Games(G), Minutes Played (MP), 
 Player Efficiency Rating (PER), True Shooting Percentage (TS%)
 - 3-Point Attempt Rate (3PAr), Free Throw Attempt Rate (FTr),Offensive Rebound Percentage (ORB%),Defensive Rebound Percentage (DRB%)
-,Total Rebound Percentage (TRB%), Assist Percentage(AST%), Steal Percentage(STL%), Block Percentage(%), Turnover Percentage(TOV%)
+,Total Rebound Percentage (TRB%), Assist Percentage(AST%), Steal Percentage(STL%), Block Percentage(BLK%), Turnover Percentage(TOV%)
 , Usage Percentage(USG%)
 - Offensive Win Shares(OWS), Defensive Win Shares(DWS), Win Shares(WS), Win Shares Per 48 Minutes (WS/48)
 - Offensive Box Plus/Minus (OBPM), Defensive Box Plus/Minus(DBPM), Box Plus/Minus(BPM), Value over Replacement Player(VORP)
