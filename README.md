@@ -33,7 +33,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## Explanatory Data Analysis
 
 I looked at the distributions of the data with histograms and the value counts for the various categorical variables using pivot tables. 
-I also looked pair graphs abd correlation matrix to see the correlation. With these graphs, I selected some predict variables.
+I also looked pair graphs and correlation matrix to see the correlation. With these graphs, I selected some predict variables.
 Below are a few highlights.
 
 <p float="left">
