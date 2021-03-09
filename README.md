@@ -30,5 +30,14 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 - Removed multiple headers that were created when I scraped the data
 - Removed empty columns 
 
+## Explanatory Data Analysis
 
+I looked at the distributions of the data with histograms and the value counts for the various categorical variables using pivot tables. 
+I also looked pair graphs abd correlation matrix to see the correlation. With these graphs, I selected some predict variables.
+Below are a few highlights.
 
+<img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/WS_histogram.png" width="500"/>
+<img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/barchart.png" width="500"/>
+<img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/heatmap.png" width="400"/>
+<img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/pair_plots.png" width="600"/>
+<img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/pivot_table.png" width="300"/>
