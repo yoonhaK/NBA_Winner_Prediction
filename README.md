@@ -36,8 +36,10 @@ I looked at the distributions of the data with histograms and the value counts f
 I also looked pair graphs abd correlation matrix to see the correlation. With these graphs, I selected some predict variables.
 Below are a few highlights.
 
+<p float="left">
+<img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/pivot_table.png" width="300"/>
 <img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/WS_histogram.png" width="500"/>
 <img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/barchart.png" width="500"/>
 <img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/heatmap.png" width="400"/>
-<img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/pair_plots.png" width="600"/>
-<img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/pivot_table.png" width="300"/>
+<img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/pair_plots.png" width="500"/>
+</p>
