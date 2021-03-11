@@ -43,3 +43,24 @@ Below are a few highlights.
 <img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/heatmap.png" width="400"/>
 <img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/pair_plots.png" width="500"/>
 </p>
+
+## Model Building
+
+
+First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.
+
+
+I tried four different models and evaluated them using Mean Absolute Error. I chose MAE because it is relatively easy to interpret.
+
+Three models I tried:
+- Multiple Linear Regression: Since the WS is not categorical, it is a good model for the baseline.
+- Decision Tree: Because of the sparse data from the many categorical variables, I thought a Decision Tree would be effective.
+- Random Forest Regression: Because of the sparse data from the many categorical variables, I thought Random Forest would be a good fit. 
+
+## Model Performance
+The Random Forest model outperformed the other approaches on the test and validation sets.
+- Random Forest : MAE = 0.4519528606965175
+- Linear Regression: MAE = 0.5021073044170522
+- Decision Tree: MAE = 0.5933855985540939
+
+<img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/2021_top_ten.png" width="500"/>
