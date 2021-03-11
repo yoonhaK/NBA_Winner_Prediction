@@ -10,7 +10,7 @@
 
 ## Code used 
 - Python version: 3.7
-- Packages: pandas, numpy
+- Packages: pandas, numpy, statsmodel, sklearn, matplotlib, seaborn, pylab
 
 ## Web Scraping
 Used pandas read_html to scrape Individual Player's Advanced Stats per season from year 2001 to 2021
