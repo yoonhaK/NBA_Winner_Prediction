@@ -1,12 +1,12 @@
 # NBA_Winner_Prediction
- Can we predict individual win shares of NBA players using other basketball metrics?
+- Can we predict individual win shares of NBA players using other basketball metrics?
  According to Baketball-Reference, win shares is a metric that estimates the number of wins a player produces 
  for his team throughout the season
  
- For example, Michael Jordan is both the single season leader in win shares with 20.4 win shares and all-time career 
- leader in win shares with 214 win shares. 
+ - For example, Michael Jordan is both the single season leader in win shares with 20.4 win shares and all-time career 
+ leader in win shares with 214 win shares. It hints that win shares could potentially be a good indicator of how much success a player contributes to their team
  
- It hints that win shares could potentially be a good indicator of how much success a player contributes to their team
+ - Scraped over 10000 players' advanced stats
 
 ## Code used 
 - Python version: 3.7
