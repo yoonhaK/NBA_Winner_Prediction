@@ -12,6 +12,9 @@
 - Python version: 3.7
 - Packages: pandas, numpy, statsmodel, sklearn, matplotlib, seaborn, pylab
 
+## Resource Used
+- Flask Productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+
 ## Web Scraping
 Used pandas read_html to scrape Individual Player's Advanced Stats per season from year 2001 to 2021
 from https://www.basketball-reference.com/. With each player, the stats collected are following:
@@ -64,3 +67,7 @@ The Random Forest model outperformed the other approaches on the test and valida
 - Decision Tree: MAE = 0.5933855985540939
 
 <img src="https://github.com/yoonhaK/NBA_Winner_Prediction/blob/master/graph_images/2021_top_ten.png" width="500"/>
+
+
+## Productionization
+I built a flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a Player's Advanced Stats and returns an estimated Win Shares.
